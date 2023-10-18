@@ -1,0 +1,30 @@
+h1{
+    color:goldenrod;
+}
+
+
+h2{
+    color: dodgerblue;
+}
+
+h3{
+    color: aqua;
+}
+
+* {
+    border: solid;
+    
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: first baseline;
+}
